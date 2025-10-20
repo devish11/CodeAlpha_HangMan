@@ -12,11 +12,11 @@ CodeAlpha Hangman is a simple console-based Hangman game built using Python. Gue
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/devish11/codealpha_hangman.git
+   git clone https://github.com/devish11/HangMan.git
 
 2. Navigate to the project directory:
    ```bash
-   cd CodeAlpha_HangMan
+   cd HangMan
 
 3. Run the game:
    ```bash
